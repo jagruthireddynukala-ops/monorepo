@@ -1,0 +1,14 @@
+{
+  "name": "employee-leave-ui",
+  "version": "1.0.0",
+  "description": "Employee Leave Management UI",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
